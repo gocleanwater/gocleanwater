@@ -123,13 +123,3 @@ Raspberry Pi 3대로 센서 데이터를 기록하는 비공개 블록체인 네
   비공개 블록체인과 합의 알고리즘 연구 및 구현
 - **UMC 10기 Spring Boot Part Challenger**  
   베스트 워크북 5회 · 교내 장기 해커톤 우승
-
----
-
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gocleanwater&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gocleanwater&show_icons=true&theme=default&hide_border=true&include_all_commits=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gocleanwater&show_icons=true&hide_border=true&include_all_commits=true">
-</picture>
